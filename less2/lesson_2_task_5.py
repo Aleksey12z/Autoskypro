@@ -11,4 +11,4 @@ def month_to_season(month):
         return 'Invalid month number'
     month_number = 2
 season_name = month_to_season(2)
-print(season_name)  # Output: winter
+print(season_name)  
